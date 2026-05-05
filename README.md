@@ -36,7 +36,7 @@ The framework automatically fetches and configures cloudflared on first executio
 ## Installation
 
 ```bash
-git clone https://github.com/whoamitang/Blackeye
+git clone https://github.com/twist-hero/TWIST-PHISHER.git
 cd twistphisher
 bash twistphisher.sh
 ```
