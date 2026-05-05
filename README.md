@@ -2,7 +2,7 @@
 
 TWISTPHISHER is a modular, all-in-one cybersecurity training toolkit designed for defensive security education, red-team simulation, and awareness training environments.
 
-**Fully self-contained and locally operated.** No external API dependencies, no manual binary sourcing required. The framework automatically provisions and configures the required Cloudflare tunnel if it is not already present, ensuring seamless deployment and zero-friction setup.
+Fully self-contained and locally operated.No external API dependencies, no manual binary sourcing required. The framework automatically provisions and configures the required Cloudflare tunnel if it is not already present, ensuring seamless deployment and zero-friction setup.
 ---
 
 ## Features
